@@ -1,0 +1,8 @@
+1. composer install
+2. composer dump-autoload
+3. php artisan key:generate 
+4. php artisan make:auth
+5. php artisan config:cache
+6. cd public/
+7. $ bower install
+

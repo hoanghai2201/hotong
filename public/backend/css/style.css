@@ -1,0 +1,19 @@
+.error {
+    color: #f00;
+    padding-top: 5px;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+    display: none !important;
+}
+
+.icon-disabled {
+    pointer-events: none !important;
+    background: #d8d8d8 !important;
+    border-color: #d8d8d8 !important;
+}
+
+table thead tr th, table tbody tr td {
+	text-align:center !important;
+	vertical-align: middle !important;
+}
